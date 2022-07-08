@@ -1,4 +1,4 @@
-# Hello there! I´m Sonia Reyes 👋
+# Hello there! I'm Sonia Reyes 👋
 ## About me 👩‍💻
 I have always been passionate about building things with my hands and mind. I love the process of connecting the dots between the things you envision and working towards the final product. 
 
@@ -24,4 +24,6 @@ I enjoy contributing to projects, with a broad vision that seeks to create and i
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ## Reach Out 👋
-![LinkedIng](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="left">
+<a href="https://www.linkedin.com/in/soniareyesp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soniareyesp/" height="30" width="40" /></a>
+</p>
