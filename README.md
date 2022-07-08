@@ -1,6 +1,6 @@
-# Hello there!👋
+# Hello there! I´m Sonia Reyes 👋
 ## About me 👩‍💻
-My name is Sonia Reyes, and I have always been passionate about building things with my hands and mind. I love the process of connecting the dots between the things you envision and working towards the final product. 
+I have always been passionate about building things with my hands and mind. I love the process of connecting the dots between the things you envision and working towards the final product. 
 
 I am a **Jr Front-end Developer** and Master in Business Administration, working mostly with **JavaScript, React, HTML5, and CSS3** 🤖 
 I enjoy contributing to projects, with a broad vision that seeks to create and improve user experience.
