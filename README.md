@@ -5,7 +5,7 @@
 <p align="left"> I have always been passionate about building things with my hands and mind. 
 I love the process of connecting the dots between the things you envision and working towards the final product. </p>
 
-<p align="left">I am a <strong style="color: blue"> Jr Front-end Developer</strong> and Master in Business Administration, working mostly with <strong style="color: blue">JavaScript, React, HTML5, and CSS3.</strong>  
+<p align="left">I am a <strong>Jr Front-end Developer,</strong> and Master in Business Administration, working mostly with <strong>JavaScript, React, HTML5, and CSS3.</strong>  
 
 I enjoy contributing to projects, with a broad vision that seeks to create and improve user experience. </p>
 
@@ -20,3 +20,4 @@ I enjoy contributing to projects, with a broad vision that seeks to create and i
 <p align="left">
 <a href="https://www.linkedin.com/in/soniareyesp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soniareyesp/" height="30" width="40" /></a>
 </p>
+
