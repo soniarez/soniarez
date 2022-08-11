@@ -2,10 +2,10 @@
 <h2> About me 👩‍💻</h2>
 <img align="right" src="./img/make_the_impossible.jpg" />
 
+<p align="left">I am a <strong>Jr Front-end Developer,</strong> and Master in Business Administration, working mostly with <strong>JavaScript, React, HTML5, and CSS3.</strong>  
+
 <p align="left"> I have always been passionate about building things with my hands and mind. 
 I love the process of connecting the dots between the things you envision and working towards the final product. </p>
-
-<p align="left">I am a <strong>Jr Front-end Developer,</strong> and Master in Business Administration, working mostly with <strong>JavaScript, React, HTML5, and CSS3.</strong>  
 
 I enjoy contributing to projects, with a broad vision that seeks to create and improve user experience. </p>
 
