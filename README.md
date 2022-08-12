@@ -1,15 +1,13 @@
-<h1>Hello there! I'm Sonia Reyes 👋</h1>
-<h2> About me 👩‍💻</h2>
+<h1>Hello there! I'm Sonia Reyes 👩‍💻</h1>
 <img align="right" src="./img/make_the_impossible.jpg" />
+<p align="left">I am a <a href="#"><strong>Jr Front End Developer</strong></a> and Master in Business Administration, working mostly with <a href="#"><strong>JavaScript, </strong></a><a href="#"><strong>React, </strong></a><a href="#"><strong>HTML5, </strong></a><a href="#"><strong>CSS3.</strong></a>
 
-<p align="left"> I have always been passionate about building things with my hands and mind. 
+<p align="left"> I've always been passionate about building things. 
 I love the process of connecting the dots between the things you envision and working towards the final product. </p>
-
-<p align="left">I am a <strong>Jr Front-end Developer,</strong> and Master in Business Administration, working mostly with <strong>JavaScript, React, HTML5, and CSS3.</strong>  
 
 I enjoy contributing to projects, with a broad vision that seeks to create and improve user experience. </p>
 
-<p align="left"> 📖 Outside of the world of tech, you´d find me reading (especially historical fiction), and listening to podcasts. 
+<p align="left"> 📖 Besides coding, you'll find me reading and listening to podcasts. 
 Personal favs: <a href="https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S?si=7b1609ed86444872">Ologies</a>, a comedic science show; and <a href="https://open.spotify.com/show/2nG2kJlK7gbrCJO31KnvrT?si=b043fec1f6554e13">Ancient Heroes</a>, about myths of the ancient world. </p>
 
 <h2> Tech Stack 🚀</h2>
