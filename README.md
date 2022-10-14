@@ -4,7 +4,7 @@
  
 <p align="left"> I've always been passionate about building things. I love the process of connecting the dots between the things you envision and working towards the final product.</p>
 
-<p align="left">I enjoy contributing to projects, with a broad vision that seeks to create and improve user experience. </p>
+<p align="left">I enjoy contributing to projects, with a broad vision that seeks to improve user experience. </p>
 
 <p align="left"> 📖 Besides coding, you'll find me reading and listening to podcasts. 
 Personal favs: <a href="https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S?si=7b1609ed86444872">Ologies</a>, a comedic science show; and <a href="https://open.spotify.com/show/2nG2kJlK7gbrCJO31KnvrT?si=b043fec1f6554e13">Ancient Heroes</a>, about myths of the ancient world. </p>
